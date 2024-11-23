@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Parkinsans:wght@300..800&display=swap');
+.privacy-h1{
+    padding-left: 43%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.privacy-h2{
+    font-family: "Parkinsans", sans-serif;
+    margin-top: 10px;
+}
+.privacy-para{
+    font-family: "Parkinsans", sans-serif;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+hr{
+    margin-top: 15px;
+}
